@@ -1,0 +1,4 @@
+Parameters,Class A,Potentially Class A,undefined,Class B,Potentially Class B
+Parameter1,900.0,800.0-899.9,500.0-799.9,299.9,300.0-499.9
+Parameter2,60.0,40.0-59.9,30.0-39.9,20.0,20.1-29.9
+Parameter3,260.0,240.0-259.9,230.0-239.9,220.0,220.1-229.9
